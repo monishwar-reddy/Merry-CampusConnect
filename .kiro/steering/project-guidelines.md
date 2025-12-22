@@ -18,7 +18,6 @@ CampusConnect is a comprehensive campus community platform built with React, Sup
 - Keep components modular and reusable
 
 ## Feature Requirements
-- User authentication (login/signup)
 - Post creation with AI moderation
 - Real-time leaderboard
 - Interactive games (Pac-Man)
