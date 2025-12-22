@@ -1,4 +1,4 @@
-# CampusConnect Project Guidelines
+# CampusConnect Project Description
 
 ## Project Overview
 CampusConnect is a comprehensive campus community platform built with React, Supabase, and AI features powered by Google Gemini.
